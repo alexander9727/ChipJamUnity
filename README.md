@@ -1,4 +1,4 @@
-Submission to Pizza game jam in April 2025
+Submission to Chip'N Jam
 
 
-https://alexander9727.itch.io/mana-heist
+https://alexander9727.itch.io/the-adventures-of-decku
