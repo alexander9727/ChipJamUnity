@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: d839c497d806815448ee9df865357d61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4376083408096188033
+    second: Plank_02
+  - first:
+      213: 6715155061539473994
+    second: Plank_01
+  - first:
+      213: 6859242880833588708
+    second: Plank_05
+  - first:
+      213: -4288073283374572925
+    second: Plank_01
+  - first:
+      213: -4376083408096188033
+    second: Plank_01
+  - first:
+      213: -4439973588451988641
+    second: Plank_01
+  - first:
+      213: 6715155061539473994
+    second: Plank_02
+  - first:
+      213: 2248916535728781924
+    second: Plank_03
+  - first:
+      213: -4288073283374572925
+    second: Plank_04
+  - first:
+      213: 6097423497486157794
+    second: Plank_05
+  - first:
+      213: 4297185959797856557
+    second: Main_Sprite_Sheet_5
+  - first:
+      213: 2990554353453221845
+    second: Steel_01
+  - first:
+      213: -8374944798533156640
+    second: Main_Sprite_Sheet_7
+  - first:
+      213: -4119379418956637336
+    second: Screw_01
+  - first:
+      213: 4362580427566552128
+    second: MovableBox_01
+  - first:
+      213: 5671480921722287648
+    second: Main_Sprite_Sheet_10
+  - first:
+      213: -6205473932864738939
+    second: Plank_05
+  - first:
+      213: -3126435596162535729
+    second: Main_Sprite_Sheet_12
+  - first:
+      213: 5599932800823658200
+    second: Trampoline
+  - first:
+      213: -336131123500156598
+    second: Main_Sprite_Sheet_14
+  - first:
+      213: 1362043523344831418
+    second: Main_Sprite_Sheet_15
+  - first:
+      213: 1342030572164097108
+    second: Main_Sprite_Sheet_16
+  - first:
+      213: 7571855612783187941
+    second: Main_Sprite_Sheet_17
+  - first:
+      213: 8602333771059654771
+    second: Main_Sprite_Sheet_18
+  - first:
+      213: 2008552726876419211
+    second: Card_01
+  - first:
+      213: 293985668304250189
+    second: Card_02
+  - first:
+      213: -4339862954606530431
+    second: Card_03
+  - first:
+      213: 1408505543571563107
+    second: Card_04
+  - first:
+      213: 4065397036759407708
+    second: Main_Sprite_Sheet_23
+  - first:
+      213: -23749165766584120
+    second: Main_Sprite_Sheet_24
+  - first:
+      213: 8511963229097835196
+    second: Main_Sprite_Sheet_25
+  - first:
+      213: 7345219495775165753
+    second: Main_Sprite_Sheet_26
+  - first:
+      213: 1264568659214246537
+    second: Card_05
+  - first:
+      213: -4439973588451988641
+    second: Trail
+  - first:
+      213: 8988915467274248454
+    second: Main_Sprite_Sheet_1
+  - first:
+      213: 2283903274078253281
+    second: Main_Sprite_Sheet_2
+  - first:
+      213: -8231134541677337056
+    second: Main_Sprite_Sheet_3
+  - first:
+      213: 6097423497486157794
+    second: Main_Sprite_Sheet_4
+  - first:
+      213: -1661998385016106615
+    second: Main_Sprite_Sheet_6
+  - first:
+      213: -1427985177455262831
+    second: Main_Sprite_Sheet_8
+  - first:
+      213: -8758603496922303583
+    second: Main_Sprite_Sheet_9
+  - first:
+      213: 7760845584751282252
+    second: Plank_01
+  - first:
+      213: 7760845584751282252
+    second: Plank_05
+  - first:
+      213: 7760845584751282252
+    second: Plank_01
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plank_02
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 579
+        width: 101
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0ab633f5013d50800000000000000
+      internalID: 6715155061539473994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_04
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 579
+        width: 98
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9d956114bd74c0800000000000000
+      internalID: -4288073283374572925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_03
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 579
+        width: 97
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46abd998ca1c53f10800000000000000
+      internalID: 2248916535728781924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 788
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d291c8becdba2ab30800000000000000
+      internalID: 4297185959797856557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steel_01
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 574
+        width: 86
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7c31ff655908920800000000000000
+      internalID: 2990554353453221845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Screw_01
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 879
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd80e6e3605d6c0800000000000000
+      internalID: -4119379418956637336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MovableBox_01
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 579
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441d21f8cffa8c30800000000000000
+      internalID: 4362580427566552128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trampoline
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 424
+        width: 335
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6072f6635f6bd40800000000000000
+      internalID: 5599932800823658200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_01
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 136
+        width: 141
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b847c163010dfdb10800000000000000
+      internalID: 2008552726876419211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_02
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 133
+        width: 143
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45a4506862741400800000000000000
+      internalID: 293985668304250189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_03
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 133
+        width: 142
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fcc8e2a5b5c3c0800000000000000
+      internalID: -4339862954606530431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_04
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 132
+        width: 142
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36260cc44540c8310800000000000000
+      internalID: 1408505543571563107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Card_05
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 133
+        width: 138
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982ae8ede76ac8110800000000000000
+      internalID: 1264568659214246537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_01
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 579
+        width: 101
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4842cbc0ff04bb60800000000000000
+      internalID: 7760845584751282252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plank_05
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 579
+        width: 89
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589a6a8065ab1e9a0800000000000000
+      internalID: -6205473932864738939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
